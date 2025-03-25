@@ -15,8 +15,4 @@ We are passionate about exploring new ideas and technologies in the following ar
 - **Frameworks**: Experimenting with and contributing to frameworks that improve development efficiency.
 - **Mobile and Desktop Applications**: Innovating applications across different platforms.
 
-## Join Us
-
-We love collaborating with fellow developers and tech enthusiasts! Follow our journey as we explore new projects and share our insights.
-
-Thank you for visiting IntellegixLabs! Stay tuned for our latest projects and updates.
+# IntellegixLabs! Stay tuned for our latest projects and updates.
